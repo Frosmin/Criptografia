@@ -22,4 +22,3 @@ resultado = cesar(mensage, desplazamiento)
 print(f"Mensaje original: {mensage}")
 print(f"Mensaje cifrado: {resultado}")
 mensage = "Mensaje con espacios y signos de puntuación!"
-
